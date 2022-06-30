@@ -50,7 +50,7 @@
     "chai-as-promised": "^7.1.1",
     "mocha": "^7.1.2",
     "supertest": "^4.0.2",
-    "ts-mocha": "^6.0.0",
+    "ts-mocha": "10.0.0",
     "ts-mockito": "^2.5.0",
     "ts-node-dev": "^1.0.0"
   }
