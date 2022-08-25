@@ -39,7 +39,7 @@
     "express": "^4.17.1",
     "express-rate-limit": "^6.0.0",
     "mongoose": "^6.5.3",
-    "node-fetch": "^2.6.7",
+    "node-fetch": "^3.2.10",
     "nodemon": "^2.0.3",
     "rate-limit-mongo": "^2.3.0",
     "ts-node": "^8.10.1",
