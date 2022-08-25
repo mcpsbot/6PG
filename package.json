@@ -17,7 +17,7 @@
   "author": "ADAMJR#0001",
   "license": "ISC",
   "dependencies": {
-    "@2pg/music": "^1.1.2",
+    "@2pg/music": "^1.1.7",
     "@2pg/oauth": "^1.0.6",
     "@discordjs/opus": "^0.8.0",
     "@types/axios": "^0.14.0",
