@@ -31,7 +31,7 @@
     "@types/supertest": "^2.0.12",
     "@types/ws": "^8.5.4",
     "body-parser": "^1.20.2",
-    "canvas": "^2.11.0",
+    "canvas": "^2.11.2",
     "cors": "^2.8.5",
     "crypto-js": "^4.1.1",
     "discord.js": "^14.7.1",
