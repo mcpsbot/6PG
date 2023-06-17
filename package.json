@@ -29,7 +29,7 @@
     "@types/mongoose": "^5.11.97",
     "@types/node": "^18.16.3",
     "@types/supertest": "^2.0.12",
-    "@types/ws": "^8.5.4",
+    "@types/ws": "^8.5.5",
     "body-parser": "^1.20.2",
     "canvas": "^2.11.2",
     "cors": "^2.8.5",
