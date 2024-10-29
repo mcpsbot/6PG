@@ -30,7 +30,7 @@
     "@types/node": "^20.10.1",
     "@types/supertest": "^2.0.16",
     "@types/ws": "^8.5.12",
-    "body-parser": "^1.20.2",
+    "body-parser": "^1.20.3",
     "canvas": "^2.11.2",
     "cors": "^2.8.5",
     "crypto-js": "^4.2.0",
