@@ -23,7 +23,7 @@
     "@types/axios": "^0.14.0",
     "@types/chai": "^4.3.19",
     "@types/chai-as-promised": "^8.0.1",
-    "@types/crypto-js": "^4.2.1",
+    "@types/crypto-js": "^4.2.2",
     "@types/express": "^5.0.0",
     "@types/mocha": "^10.0.9",
     "@types/mongoose": "^5.11.97",
